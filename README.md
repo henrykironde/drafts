@@ -77,7 +77,7 @@ Development:
 
     For the issues, I have gone ahead to divide them in two ways; considering the Milestones and the relationship with one another.
     For example, considering the section above of testing, you find that the issue "Expand unit testing" will involve taking care of the cross-tab, making sure that primary keys are set right too. 
-    For the retriever, I believe covering the two sections Testing and Features above, will reduce the number of issues tremendously    
+    For the retriever, I believe covering the two sections (Testing and Features above), will reduce the number of issues tremendously    
     
     
 ##### Weaver( By End of April): 
