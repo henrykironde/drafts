@@ -83,17 +83,17 @@ Development:
 ##### Weaver( By End of April): 
 
     Main part of weaver 1.0 is to be able to integrate files from different sources and support spacial integration. 
-    Currently, we are in the development phases and I have a prototype working with sqlalchemy to integrate datasets.
+    Currently, we are in the development phase with a prototype working using sqlalchemy to integrate datasets.
     We are using a configuration file for the protocol of integration. 
     Aditionally we have added Raster spacial data and we are under Tests for the vector datasets. 
     Once this is done, we will have our first tool ready for merging with spacial datasets that can be handled by gdal. 
     I believe by the end of April the first version of the tool will be ready.
     
   
-######## Current development Issues with the Weaver project
+####### Current development Issues with the Weaver project
 
     Most of platform issues that the retriever has had or is having can be directly linked with the weaver. 
-    I have been trying to solve these some issues in parallel or consider them when developing for the weaver. 
+    I have been trying to solve some of these issues in parallel or consider them when developing for the weaver. 
     For example, cross-platform testing with travis and appveyor.
 
 * __What are your long-term career plans?__
