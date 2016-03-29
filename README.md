@@ -35,7 +35,7 @@ __1. We recommend including the following components:__
 
 ##### Retreiver
 
-    over 60 issues on the retriever to be covered.
+    Over 60 issues on the retriever to be covered.
     
 ###### Core Parts:
 
