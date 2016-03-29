@@ -28,7 +28,7 @@ __1. We recommend including the following components:__
 
 ###### Upcoming Workshops
 
-    Moore DDD Puerto Rico from Ma  y 31 - June 2. 
+    Moore DDD Puerto Rico from May 31 - June 2. 
     NEON's Work with Data Institute working with heterogeneous spatio-temporal data June 19-25, 2016 
     
 ### Work to Do:
