@@ -1,6 +1,6 @@
 __Henry Senyondo, Annual self self-assessment (Spring 2016)__
 
-__1. We recommend including the following components: __
+__1. We recommend including the following components:__
 
 
 ### Work Done
