@@ -97,7 +97,11 @@ Development:
     For example, cross-platform testing with travis and appveyor.
 
 * __What are your long-term career plans?__
-
+        
+I do believe that I am in the right career path currently.
+I have not directly contributed much to my long-term career endevours and this is because the first few months have been a learning process. However I get to see code everyday which is also a contributuion to my career.
+I plan to expand these courses/workshop kind of services to my former universities and Africa. I have always tried to do this in Africa but I have always had obstacles. This time, I am actually trying to ask some of the universities in africa to get involved in workshops like SWC, DC and ML workshops. So being involved in these Carpentries is very good as part of my long term goal.
+On the side, I also want to go back and attend those lecture series on coursera or any new platforms atleast one every year or 6 months.
 
 
 * __Given your long-term plans, what do you think you need to do to be successful?__ 
@@ -137,7 +141,6 @@ Done
 __3. Share it with us. This is totally voluntary, but we know a little bit about succeeding in academia and we know a lot of people who work in other areas of science (and software engineering). Our goal is to help you be successful in whatever career path you choose. Knowing what you want to do, what you think you need in order to do it, and what you want to accomplish helps us advise you better during your weekly meetings.__
 
 Done
-
 
 Also, a note for more permanent staff: we think you're awesome, and we'd love for you to stick around forever, but we know that you may have bigger plans, and you know that these kinds of positions are always dependent on sufficient funding being maintained in the labs. We want you to get where you want to go, so you shouldn't worry about sharing goals with us that involve you leaving at some point. Of course it's totally understandable if you don't want to tell us about this (or if you never want to leave), but just know that we'll be supportive of whatever you're trying to do
 
