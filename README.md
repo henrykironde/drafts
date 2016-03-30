@@ -90,7 +90,7 @@ Development:
     I believe by the end of April the first version of the tool will be ready.
     
   
-####### Current development Issues with the Weaver project
+###### Current development Issues with the Weaver project
 
     Most of platform issues that the retriever has had or is having can be directly linked with the weaver. 
     I have been trying to solve some of these issues in parallel or consider them when developing for the weaver. 
@@ -112,24 +112,25 @@ My plan was simple, first get the tools(retriever, weaver) to a stable state and
 
 Luckily I got a chance to be part of the certified instructors at Software Carpentry and conducted a Software Carpentry workshop.
 
-__e) What are your plans for next year for working towards your goals? (Be as specific as you can be. Are there particular projects you plan to start/finish? Is there specific training or experiences you think you need to succeed in reaching your goals?)__
+* __What are your plans for next year for working towards your goals? (Be as specific as you can be. Are there particular projects you plan to start/finish? Is there specific training or experiences you think you need to succeed in reaching your goals?)__
 
     Currently I am not applying for any jobs and probably next year.
     Next year is a year for me. (Assuming next year Starting from May)
     April will be to finish up the first version of the Weaver
 
-######## Goals for the Retriever:
+
+###### Goals for the Retriever:
 
     We have 48 datasets, Personally I do feel we need to increase on the datasets covered. I am targeting next year's Dataset to increase so that we can have a big research impact. The theory I have is, if it is safe to say, we have over 2000 major/main 4-year institutions dealing with data in USA/World, how can we scale the tool's use over at least 100 major centers/institutions. 
 
-######## Ideas:
+###### Ideas:
 
     Teaming up with large data centers and Organizations. Remarks: we have already done much of this (Neon, Moore Foundation, Software Carpentry and Data carpentr).
     We can also include sample examples using the tools in the Carpentry workshops.
     Increase the number of Datasets that can be handled by the tool so that many scientists can make use of the tool.
     Remarks: This may require good and thorough research for the most used datasets or datasets from major research Centers.
 
-######## Goals for the Weaver:
+###### Goals for the Weaver:
 
     Currently the main goal for the Weaver is to get it going before we can come up with concrete goals.
     However, we do believe once we can handle spacial data, we can look in the directions like remote sensing and many more
