@@ -42,15 +42,16 @@ You will also need the following modules:
 Style Guide for Python Code
 ===========================
 
-Run pep8 on the given files to make sure it follows the right style.
-In some cases we do tend to work outside the pep8 requirements.
-The compromise on pep8  may be a result of enforcing better code readerbility.
-In some cases pep shows errors for long lines but that can be ignored.
+Run ``pep8`` on the given file to make sure the file follows the right style.
+In some cases we do tend to work outside the ``pep8`` requirements.
+The compromise on ``pep8``  may be a result of enforcing better code readability.
+In some cases ``pep`` shows errors for long lines, but that can be ignored.
 
 ``pep8 pythonfile.py``
 
 Testing
 =======
+
 Follow these instructions to run a complete set of test for any branch
 Clone the branch you want to test
 
@@ -82,11 +83,11 @@ you can also install from Git.
   pip install git+git://github.com/myuser/myproject  #  package from a github repository
   pip install git+git://github.com/myuser/myproject@my_branch # github repository Specific branch
 
-Running testing locally
+Running tests locally
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 To run tests we use pytest.
-From the source top level directory run
+From the source top level directory, run
 
 .. code-block:: sh
 
@@ -101,17 +102,17 @@ In case we want to run tests on a specific test category, we add the path of the
 
 This will only run test_retriever.py
 
-Testing in the Cloud
+Tests in the Cloud
 ^^^^^^^^^^^^^^^^^^^^
 
-Currently we support travis, a cloud testing platform.
+Currently we support Travis, a cloud testing platform.
 
-In case you make commits, travis is automatically trigered and uses the ``travis.yml`` file.
+In case you make commits, Travis is automatically trigered and uses the ``travis.yml`` file.
 
 Services Used
 -------------
 
-Check the services' homepages in case you have to add the same capabilites to your master branch.
+Check the services' home pages in case you have to add the same capabilities to your master branch.
 
 ::
 
@@ -122,7 +123,7 @@ Check the services' homepages in case you have to add the same capabilites to yo
    
 links `Read The Docs`_, `codecov`_ and  `Travis`_
 
-After installing the servers we need to configure them by granting previllages to our testing user 
+After installing the servers we need to configure them by granting privileges to our testing user 
 
 :: 
 
@@ -147,15 +148,15 @@ After installing the servers we need to configure them by granting previllages t
   Create .pgpass in your home directory:
   localhost:*:testdb:postgres:testpass
 
-Documentatation
-===============
+Documentation
+=============
 
 We are using `Sphinx`_ and `Read the Docs`_. for the documentation. 
 Sphinx uses reStructuredText as its markup language. 
-Source Code documentation is automatically included after commits to the master.
-Other documentation is added as a new reStructuredText in the docs folder
+Source Code documentation is automatically included after committing to the master.
+Other documentation (not source code) files are added as new reStructuredText in the docs folder
 
-In case you want to change the organization of the Documenntation. Please refer to `Sphinx`_
+In case you want to change the organization of the Documenntation, please refer to `Sphinx`_
 
 **Test Documentation locally**
 
@@ -178,18 +179,18 @@ Collaborative Workflows with GitHub
 
 **Submiting issues**
 
-Categorize the issues based to labels. For example (Bug, Dataset Bug, Important, Feature Request and etc..)
+Categorize the issues based on labels. For example (Bug, Dataset Bug, Important, Feature Request and etc..)
 Explain the issue explicitly with all details, giving examples and logs where applicable.
 
 **Commits**
 
 From your local branch of retriever, commit to your origin.
-Once test have passed you can then make a pull request to the retriever master (upstream) 
+Once tests have passed you can then make a pull request to the retriever master (upstream) 
 
 **Clean histroy**
 
 We try to make one commit for each issue.
-As you work on an issue try adding all the commits into one general commit rather than several commits. you can use commit ammend to add new changes to a branch.
+As you work on an issue, try adding all the commits into one general commit rather than several commits. you can use commit amend to add new changes to a branch.
 
 
 .. _codecov: https://codecov.io/
