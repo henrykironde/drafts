@@ -29,7 +29,7 @@ You need to install all the database infrastructures to enable local testing.
   PostgreSQL 9.1
   MSAccess
 
-You will also need the following modules :
+You will also need the following modules:
 
 ::
   
