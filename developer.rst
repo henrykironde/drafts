@@ -15,7 +15,7 @@ If you are installing from source you will need a Python 2.6+ installation and t
   Sphinx
   
   
-In case you find errors with wxPython try `installing the wheel`_ a pre compiled version
+In case you find errors with wxPython try `installing the wheel`_ from a third party distributor
 
 Setting up servers
 ==================
